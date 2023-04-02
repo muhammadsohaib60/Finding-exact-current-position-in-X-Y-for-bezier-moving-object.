@@ -1,0 +1,1 @@
+# Finding-exact-current-position-in-X-Y-for-bezier-moving-object.
